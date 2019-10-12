@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Николай Хрулёв](https://up.htmlacademy.ru/javascript/18/user/404911).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Фанасков](https://up.htmlacademy.ru/javascript/18/user/615993).
 
 ---
 
